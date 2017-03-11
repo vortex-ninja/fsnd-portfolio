@@ -1,11 +1,32 @@
-h1 {
-    color: purple;
+
+* {
+    font-family: 'Ubuntu', sans-serif;
 }
 
-.last-image {
-    
-
+.container {
+    max-width: 1170px;
 }
-.first-image {
 
+
+h1, h3 {
+    color: #2d3c49;
+}
+
+.header {
+    font-weight: 300;
+}
+
+.projects {
+    background: yellow;
+}
+
+.logo {
+    padding-top: 15px;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .projects {
+        background-color: blue;
+    }
 }
