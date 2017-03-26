@@ -19,13 +19,14 @@ body {
 
 .header {
     font-weight: 300;
-    font-size: 3.15rem;
+    font-size: 3.75rem;
     margin-top: 1.43rem;
     margin-bottom: 0;
 }
 
 .sub-header {
     font-size: 1.72rem;
+    font-weight: 500;
     margin-top: 0.71rem;
     margin-bottom: 0;
 
