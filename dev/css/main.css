@@ -14,6 +14,7 @@ body {
 
 .container {
     max-width: 1170px;
+    min-width: 300px;
 }
 
 .header {
@@ -28,6 +29,10 @@ body {
     margin-top: 0.71rem;
     margin-bottom: 0;
 
+}
+
+.logo-icon {
+    margin-top: 1.43rem;
 }
 
 .line {
@@ -45,7 +50,7 @@ body {
 }
 
 
-h2, h3 {
+.feature-header, .project-header {
     margin-top: 1.43rem;
     margin-bottom: 0.71rem;
 
@@ -80,18 +85,12 @@ h2, h3 {
         font-size: 14px; 
     }
 
-   
-    .projects {
-        /*background-color: blue;*/
+   .line {
+    border-top: 3px solid #7d97ad;
+    
     }
 
-    .line {
-    border-top: 3px solid #7d97ad;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-    .header {
+/*    .header {
         font-size: 44px;
         margin-top: 20px;
     }
@@ -120,7 +119,7 @@ h2, h3 {
         margin-top: 20px;
         margin-bottom: 10px;
 
-    }
+    }*/
 }
 
 
