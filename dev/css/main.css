@@ -33,6 +33,7 @@ body {
 
 .logo-icon {
     margin-top: 1.43rem;
+    width: 100%;
 }
 
 .line {
@@ -67,8 +68,8 @@ body {
 }
 
 .logo {
-    max-width: 5.73rem;
-    margin-top: 1.43rem;
+    color: #02b3e4;
+    margin-top: 2rem;
     margin-bottom: 0.71rem;
 }
 
