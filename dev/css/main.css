@@ -2,19 +2,11 @@ html {
     font-size: 1.82vw;
 }
 
-
 body {
     font-size: 1rem;
     font-family: 'Lato', sans-serif;
     color: #2d3c49;
     font-weight: 400;
-}
-
-
-
-.container {
-    max-width: 1170px;
-    min-width: 300px;
 }
 
 .header {
@@ -29,12 +21,6 @@ body {
     font-weight: 500;
     margin-top: 0.71rem;
     margin-bottom: 0;
-
-}
-
-.logo-icon {
-    margin-top: 1.43rem;
-    width: 100%;
 }
 
 .line {
@@ -51,13 +37,10 @@ body {
     font-size: 2.25rem;
 }
 
-
 .feature-header, .project-header {
     margin-top: 1.43rem;
     margin-bottom: 0.71rem;
-
 }
-
 
 .text-grey {
     color: #7d97ad;
@@ -66,17 +49,16 @@ body {
 .link {
     color: #2d3c49;
     text-decoration: none;
-}
+}          
+
+
+
 
 .logo {
     color: #02b3e4;
     margin-top: 2rem;
     margin-bottom: 0.71rem;
 }
-
-/*.col-sm-4 img {
-    border: 1px solid black;
-}*/
 
 @media only screen and (max-width: 480px) {
     .link {
@@ -93,6 +75,5 @@ body {
 
    .line {
     border-top: 3px solid #7d97ad;
-    
     }
 }
