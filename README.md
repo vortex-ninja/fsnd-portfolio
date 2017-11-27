@@ -1,5 +1,4 @@
-# fsnd-project2
-Portfolio
+# fsnd-portfolio
 
 ### Overview
 This is second project in Full Stack Developer Nanodegree course.
